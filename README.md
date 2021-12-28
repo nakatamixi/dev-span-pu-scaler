@@ -57,8 +57,9 @@ resource "google_project_iam_member" "dev-span-pu-scalar" {
 }
 ```
 - Deploy dev-span-pu-scalar to Cloud Run
+you need [ko](https://github.com/google/ko) to build container image
 ```
-# you need [ko](https://github.com/google/ko) to build container image
+# install ko
 make build-tools
 # see Makefile for detail
 GOOGLE_CLOUD_PROJECT=<project> INSTANCES=<commma separated target instances> make deploy
