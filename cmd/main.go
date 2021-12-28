@@ -41,7 +41,7 @@ var (
 	instances []string
 	project   = flag.String("project", "", "gcp project")
 	buffer    = flag.Int("buffer", 3, "buffer db count to scale pu")
-	server    = flag.Bool("server", false, "run server")
+	server    = flag.Bool("server", false, "run server(for Cloud Run)")
 )
 
 func main() {
