@@ -1,6 +1,6 @@
 # dev-span-pu-scaler [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)][license]
 
-[license]: https://github.com/nakatamixi/dev-span-pu-scaler/blob/master/LICENSE
+[license]: https://github.com/nktks/dev-span-pu-scaler/blob/master/LICENSE
 
 `dev-span-pu-scaler` is an autoscaler of Cloud Spanner Processing Unit for develop environment usecase.
 

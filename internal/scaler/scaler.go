@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/nakatamixi/dev-span-pu-scaler/internal/spanner"
+	"github.com/nktks/dev-span-pu-scaler/internal/spanner"
 )
 
 type Scaler struct {

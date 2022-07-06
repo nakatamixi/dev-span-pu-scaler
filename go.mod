@@ -1,4 +1,4 @@
-module github.com/nakatamixi/dev-span-pu-scaler
+module github.com/nktks/dev-span-pu-scaler
 
 go 1.16
 

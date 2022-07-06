@@ -13,8 +13,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/nakatamixi/dev-span-pu-scaler/internal/scaler"
-	"github.com/nakatamixi/dev-span-pu-scaler/internal/spanner"
+	"github.com/nktks/dev-span-pu-scaler/internal/scaler"
+	"github.com/nktks/dev-span-pu-scaler/internal/spanner"
 )
 
 type csvInstances []string

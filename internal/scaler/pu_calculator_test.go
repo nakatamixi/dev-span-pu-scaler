@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/nakatamixi/dev-span-pu-scaler/internal/scaler"
+	"github.com/nktks/dev-span-pu-scaler/internal/scaler"
 	"github.com/stretchr/testify/require"
 )
 
